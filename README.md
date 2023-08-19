@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Christopher Maurer
+- 👋 Hi, I’m Christopher (Chris) Maurer
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python - first project - read Quicken files with OFXTools and write to Postgres or Excel
 - 📫 How to reach me: ChrisMaurer52@gmail.com
